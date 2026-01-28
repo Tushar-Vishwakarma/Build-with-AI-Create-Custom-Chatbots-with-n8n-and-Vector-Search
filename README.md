@@ -9,4 +9,4 @@ In this practical, scenario-driven course, AI enthusiast Tushar Vishwakarma show
 ## Instructor
 Tushar Vishwakarma
 
-AI expert, Author, Keynote Speaker
+Product Manager, AI enthusiast, Author, Youtuber
