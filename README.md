@@ -8,5 +8,4 @@ In this practical, scenario-driven course, AI enthusiast Tushar Vishwakarma show
 
 ## Instructor
 Tushar Vishwakarma
-
-Product Manager, AI enthusiast, Author, Youtuber
+[Product Manager]([url](https://www.linkedin.com/in/tusharvishwakarma/)), [AI enthusiast]([url](https://xplatform.in/)), [Author]([url](https://tusharvishwakarma.com/#publications)), [Youtuber]([url](https://www.youtube.com/@ArtificialPopcorn))
