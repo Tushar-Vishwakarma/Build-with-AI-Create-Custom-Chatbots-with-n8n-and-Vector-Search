@@ -1,5 +1,6 @@
 # Build with AI: Create Custom Chatbots with n8n and Vector Search
 This is the repository for the LinkedIn Learning course Build with AI: Create Custom Chatbots with n8n and Vector Search. The full course is available on Youtube.
+
 <img width="826" height="462" alt="image" src="https://github.com/user-attachments/assets/e3d8a4d8-8f49-4741-8ba2-606f3ea25b07" />
 
 ## Course Description
