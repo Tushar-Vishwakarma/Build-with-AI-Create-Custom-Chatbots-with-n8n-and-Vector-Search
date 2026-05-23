@@ -6,6 +6,28 @@ This is the repository for the LinkedIn Learning course Build with AI: Create Cu
 ## Course Description
 In this practical, scenario-driven course, AI enthusiast Tushar Vishwakarma shows you how to build an AI-powered customer support chatbot using n8n and a Large Language Model (LLM) of your choice. Step by step, design a bot that starts small—handling common FAQs with a well-crafted prompt—then level it up by connecting it to Pinecone, enabling deep searches across your documentation, policies, or product data. Learn the tools you need to know through the hands-on experience of solving a real problem. When you complete this course, you will have mastered the core concepts of building custom AI chatbots with n8n and gained insight into moving toward production-ready deployment. Whether you’re in ops, support, or product, this course gives you an edge in experimenting quickly with practical, high-impact AI workflows.
 
+## Module Breakdown with Durations
+
+| Module | Videos | Duration | n8n Focus |
+|---|---|---|---|
+| Introduction | 3 | ~2.5 mins | Overview, tools setup |
+| Module 1: Prompt-Based Chatbot | 5 | ~24.5 mins | Chat Trigger, AI Agent, LLM nodes, Memory Buffer |
+| Module 2: Vector Search Chatbot | 6 | ~44 mins | Pinecone Vector Store, Embeddings, Document Loader |
+| Module 3: Prototype to Production | 5 | ~19.5 mins | Error Trigger, HTTP Request, Auth nodes |
+| Conclusion | 1 | ~9 mins | Course recap, key takeaways, Phase 2 preview |
+| **Total** | **20** | **~100 mins** | |
+
+## Expected Student Outcomes
+- Working prompt-based AI chatbot on n8n
+- Vector search-enabled chatbot querying own documents
+- Production-ready workflow with error handling
+- Clear path to deployment and scaling
+
+## Phase 2 Roadmap (Q3 2026)
+Advanced AI agents, multi-agent workflows, self-hosting, 
+WhatsApp integration, production use cases — targeting 10+ hours total.
+
+
 ## Instructor
 Tushar Vishwakarma
 [Product Manager]([url](https://www.linkedin.com/in/tusharvishwakarma/)), [AI enthusiast]([url](https://xplatform.in/)), [Author]([url](https://tusharvishwakarma.com/#publications)), [Youtuber]([url](https://www.youtube.com/@ArtificialPopcorn))
